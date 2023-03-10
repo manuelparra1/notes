@@ -1,4 +1,4 @@
-# Capstone Project
+#Capstone Project
 
 ## Spotify & Hot 100
 
@@ -61,3 +61,5 @@ recommendations for stakeholders in the music industry
 to improve the success rate of new songs on the Billboard Hot 100 chart.
 
 Thank you for your attention, and please let me know if you have any questions.
+
+# Mine Wasn't Chosen!!
