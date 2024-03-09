@@ -1,0 +1,11 @@
+Question 20: Incorrect
+
+Which of these are NOT a key focus of the ‘partners and suppliers’ dimension?
+
+A. Workflow management and inventory systems (Correct)
+B. Roles and responsib
+C. Contracts and agreements
+D. Security and compliance (Incorrect)
+
+Explanation
+The ‘partners and suppliers’ dimension focuses on the organization's relationships with other organizations that are involved in the design, development, deployment, delivery, support, and/or continual improvement of services. This also incorporates contracts and other agreements between the organization and its partners or suppliers.

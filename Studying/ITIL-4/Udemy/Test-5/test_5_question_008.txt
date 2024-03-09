@@ -1,0 +1,11 @@
+Question 29: Incorrect
+
+What should NOT be included in incident management?
+
+A. A formal process for logging and managing incidents.
+B. Detailed procedures on how to diagnose, investigate, and resolve incidents. (Correct)
+C. Techniques for making investigation and diagnosis more efficient.
+D. Scripts for the collection of information during initial contact with a user. (Incorrect)
+
+Explanation
+Incident management should not have detailed procedures on how to diagnose, investigate, and resolve incidents. Instead, procedures should focus on the initial triage of the incident and resolution of simple incidents. Complex or complicated incidents require a knowledgeable professional with expertise to diagnose and resolve.

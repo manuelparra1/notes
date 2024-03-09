@@ -1,0 +1,11 @@
+Question 3: Incorrect
+
+What is the definition of an IT asset?
+
+A. A particular set of settings or options on a given piece of equipment
+B. Any valuable component that can contribute to the delivery of an IT product or service (Correct)
+C. A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks
+D. Any component that needs to be managed in order to deliver an IT service (Incorrect)
+
+Explanation
+An IT asset is any valuable component that can contribute to the delivery of an IT product or service.

@@ -1,0 +1,11 @@
+Question 30: Incorrect
+
+What is usually included as part of ‘incident management’?
+
+A. Scripts for collecting initial information about incidents (Correct)
+B. Detailed procedures for the diagnosis of incidents (Incorrect)
+C. Authority to implement changes to a system
+D. Observation of all services and service components to identify any change in state
+
+Explanation
+This process does not usually include detailed procedures on how to diagnose, investigate, and resolve incidents.

@@ -1,0 +1,11 @@
+Question 23: Incorrect
+
+Your company has recently engaged a new supplier to provide you with 3 routers that will handle 1 Gbps of throughput. They are scheduled for installation in three months. Your team is currently configuring the devices in preparation for installation into the network architecture based upon the design requirements. Which value chain activity would best categorize your configuration actions in this scenario?
+
+A. Design and transition (Incorrect)
+B. Engage
+C. Obtain/build (Correct)
+D. Deliver and support
+
+Explanation
+The ‘obtain/build' value chain activity ensures that service components are available when and where they are needed and meet agreed specifications. Configuration of the devices based upon the designs provided would best be classified as an action that occurs during the 'obtain/build’ value chain activity.

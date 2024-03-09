@@ -1,0 +1,6 @@
+Which of the following is NOT one of the three technical management practices modified and adapted from technology management domains by focusing on IT services?
+
+A) Infrastructure and platform management
+B) Software development and management (My Response)
+C) Release management (Correct)
+D) Deployment and management

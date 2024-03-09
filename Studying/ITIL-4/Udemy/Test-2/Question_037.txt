@@ -1,0 +1,11 @@
+Question 37: Incorrect
+
+You are in a quarterly service level management review with your supervisor. The manager asks your supervisor if the service desk has been meeting their SLA target metrics. Your supervisor proudly proclaims that everything is ‘green’ (meaning, we are meeting all of the targets). Just then, another executive asks, "If everything is showing as ‘green’, why am I hearing other users complain that the service is always unavailable for use?" What might be the reason for this?
+
+A. Your supervisor's data is based on operational metrics
+B. Your supervisor's data is based on business metrics
+C. Your supervisor's data is based on availability metrics (Incorrect)
+D. Your supervisor's data is not based on business outcomes (Correct)
+
+Explanation
+Often, service level management reviews show as a ‘watermelon’, all green on the outside and red on the inside. This means that teams are often measuring the wrong things. For example, if you are measuring the uptime of a single server, this isn't important to the end user or business objective or outcome. Instead, there should be a balanced 'bundle' of metrics to properly account for the business objectives as defined by outcomes and not simply operational metrics.

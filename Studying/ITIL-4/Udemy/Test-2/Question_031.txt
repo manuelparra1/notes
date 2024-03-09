@@ -1,0 +1,11 @@
+Question 31: Incorrect
+
+You are working as a service desk analyst. Within the last hour, you have received 13 calls about users being unable to log on to the network. There appears to be something wrong with the domain controller. What would you classify this scenario as?
+
+A. Incident (Incorrect)
+B. Workaround
+C. Problem (Correct)
+D. Event
+
+Explanation
+A problem is a cause, or potential cause, of one or more incidents. Since you have received 13 calls (13 potential incidents), and the common issue appears to be the domain controller, the domain controller might be the problem.

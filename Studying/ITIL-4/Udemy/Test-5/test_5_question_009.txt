@@ -1,0 +1,12 @@
+Question 33: Incorrect
+
+How does ‘service request management’ contribute to ‘design and transition’
+activity?
+
+A. By collecting user-specific request requirements.
+B. By acquiring pre-approved service components.
+C. It analyzes data to identify opportunities to provide new service request options. (Incorrect)
+D. By initiating standard changes to fulfill service requests. (Correct)
+
+Explanation
+This is the 'design and transition’ activity. Standard changes to services can be initiated and fulfilled as service requests.

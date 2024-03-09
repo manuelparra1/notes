@@ -1,0 +1,11 @@
+Question 38: Incorrect
+
+How does 'service level management' contribute to the ‘design and transition’ value chain activity?
+
+A. Collects feedback during interactions and communicates service performance objectives to the operations and support teams (Incorrect)
+B. Provides feedback from interactions with customers into new or changed services (Correct)
+C. Provides information about the actual service performance and trends
+D. Provides objectives for component and service performance for products and services
+
+Explanation
+The ‘design and transition’ activity in the service level management practice provides feedback from interactions with customers into new or changed services.

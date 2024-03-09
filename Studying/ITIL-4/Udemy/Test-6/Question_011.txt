@@ -1,0 +1,11 @@
+Question 11: Incorrect
+
+What is the purpose of the 'release management' practice?
+
+A. Moving new or changed hardware, software, documentation, processes, or any other service component to live environments (Incorrect)
+B. Making new and changed services and features available for use (Correct)
+C. Ensuring that risks are properly assessed, authorizing changes to proceed and managing a change schedule in order to maximize the number of successful IT changes
+D. Supporting the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner
+
+Explanation
+Release management is the practice of making new and changed services and features available for use.

@@ -1,0 +1,13 @@
+Question 39: Incorrect
+
+What is an example of an action a service request management employee would undertake as part of the ‘engage’ activity?
+
+A. Provide trend, quality, and feedback information about requests.
+B. Initiate and fulfill standard changes. (Incorrect)
+C. Communicate with consumers to understand their requirements. (Correct)
+D. Fulfill the consumer's service requests through acquisition of service components.
+
+Explanation
+This is the 'engage' activity. Engage includes regular communication to collect user-specific requirements, set expectations, and to provide status updates.
+
+set nrformats+=alpha

@@ -1,0 +1,11 @@
+Question 28: Incorrect
+
+You are part of a team configuring a brand new email server. You want to get permission to install the server on the corporate network to continue your configuration and testing. Which type of change should you initiate?
+
+A. Standard (Incorrect)
+B. Normal (Correct)
+C. Emergency
+D. Routine
+
+Explanation
+You should initiate a normal change. Normal changes are changes which need to be scheduled, assessed, and authorized following a standard process. These changes are not considered routine (like a standard change). They are also not considered urgent and don't need to be implemented as soon as possible to recover from an incident (like an emergency change). There is no such thing as a routine change in ITIL 4.

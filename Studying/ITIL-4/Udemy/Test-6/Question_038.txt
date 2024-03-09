@@ -1,0 +1,11 @@
+Question 38: Incorrect
+
+You are working as a part of the problem management team and discovered that multiple incidents are linked together due to a problem with the current version of the web browser installed on the workstations across the network. You have identified that this could be solved by upgrading the web browser to the newest available version. Your team has requested that all of the workstations in the organization receive an updated web browser through the change management activity to solve this problem. Which value chain activity will be responsible for upgrading all the workstations?
+
+A. Plan
+B. Improve
+C. Engage (Incorrect)
+D. Obtain/build (Correct)
+
+Explanation
+Obtain/build will manage the solution to the problem once it has been identified by problem management. They will be responsible for the release and deployment of the latest version of the web browser in this case once the change management activity approves the chanae to the workstations’ baseline.

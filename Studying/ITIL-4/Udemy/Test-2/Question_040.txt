@@ -1,0 +1,11 @@
+Question 40: Incorrect
+
+What is an example of an action a service request management employee would undertake as part of the 'design and transition' activity?
+
+A. Ensuring users continue to be productive when they need assistance from the service provider
+B. Collecti user-specific requirements, setting expectations, and providing status updates (Incorrect)
+C. Acquiring pre-approved service components to help fulfill service requests
+D. Initiating standard changes to fulfill service requests (Correct)
+
+Explanation
+This is the ‘design and transition’ activity. Standard changes to services can be initiated and fulfilled as service requests.

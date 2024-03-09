@@ -1,0 +1,11 @@
+Question 25: Incorrect
+
+You are working as part of an improvement initiative and your team would like to release a new module into the existing Customer Relationship Management system. Which type of change should you initiate?
+
+A. Standard (Incorrect)
+B. Normal (Correct)
+C. Emergency
+D. Routine
+
+Explanation
+Normal changes are changes which need to be scheduled, assessed, and authorized following a standard process. These changes are not considered routine (like a standard change). They are also not considered urgent and don't need to be implemented as soon as possible to recover from an incident (like an emergency change). In this example, the system is currently working perfectly fine, but you want to add a new function/feature to improve it. This should go through the normal change process. (Note: Routine is not a type of change in ITIL 4.)

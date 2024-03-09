@@ -1,0 +1,11 @@
+Question 14: Incorrect
+
+What is the purpose of the service level management’ practice?
+
+A. Establishing and nurturing links between an organization and its stakeholders at strategic and tactical levels (Correct)
+B. ‘Supporting the agreed quality of a service by handling all pre-defined, initiated service requests in an effective and user-friendly manner
+C. Ensuring that an organization's suppliers and their performance levels are managed appropriately to support the provision of seamless quality products and services
+D. Setting clear business-based targets for service performance so that the delivery of a service can be properly assessed,monitored, and managed against these targets (Correct)
+
+Explanation
+Service level management is the practice of setting clear business-based targets for service performance so that the delivery of a service can be properly assessed, monitored, and managed against these targets.

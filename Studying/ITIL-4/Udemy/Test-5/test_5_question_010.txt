@@ -1,0 +1,11 @@
+Question 35: Incorrect
+
+What does a centralized service desk require?
+
+A. Local Service Desk Analysts
+B. Complex Automation
+C. 24x7 Support (Incorrect)
+D. Remote Access Tools (Correct)
+
+Explanation
+A centralized service desk requires supporting technologies like workflow systems for routing and escalation, workforce management and resource planning systems, a centralized knowledge base, intelligent telephony systems, automatic call distribution, and remote access tools. Automation is wonderful and can provide efficiencies, but it is not required. Also, 24x7 support may not be a business requirement for some o ganizations. But, if you have a centralized service desk, you will need good remote access tools to be able to support users that are not located at your same location.

@@ -1,0 +1,11 @@
+Question 39: Incorrect
+
+How does 'service level management' contribute to the 'plan' value chain activity?
+
+A. Uses feedback from users about the service and requirements from customers to make the service better
+B. Provides information about the actual service performance and trends (Correct)
+C. Collects and processes feedback from customers and users
+D. Collects feedback during interactions and communicates service performance objectives to the operations and support teams (Incorrect)
+
+Explanation
+The ‘plan’ activity in the service level management practice supports planning of the product and service portfolio and service offerings with information about the actual service performance and trends.

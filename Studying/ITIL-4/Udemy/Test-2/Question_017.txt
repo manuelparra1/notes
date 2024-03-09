@@ -1,0 +1,11 @@
+Question 17: Incorrect
+
+During a review of the New Account Creation process at your company, you determine that the current process requires 15 steps to create a new account. As you analyze each step, you find that steps 3 and 5 provide no value to the process or the organization. Based on which guiding principle should you eliminate steps 3 and 5 from the process?
+
+A. Think and work holistically
+B. Keep it simple and practical (Correct)
+C. Optimize and automate (Incorrect)
+D. Focus on value
+
+Explanation
+When analyzing a practice, process, service, metric, or other improvement targets, always ask whether it contributes to value creation. If value is not being created, then eliminate the unnecessary steps to simplify the process.

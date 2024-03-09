@@ -1,0 +1,11 @@
+Question 23: Incorrect
+
+Which value chain activity ensures that service components are available when and where they are needed and meet agreed specifications?
+
+A. Improve
+B. Deliver And Support (Incorrect)
+C. Obtain/Build (Correct)
+D. Design And Transition
+
+Explanation
+The ‘obtain/build' value chain activity ensures that service components are available when and where they are needed and meet agreed specifications.

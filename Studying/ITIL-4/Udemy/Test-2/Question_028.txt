@@ -1,0 +1,11 @@
+Question 28: Incorrect
+
+You are attempting to print a document from your workstation to the network printer in your office. The print job failed when you attempted to print, so you called the service desk for assistance. What term best describes your issue?
+
+A. Problem
+B. Event (Incorrect)
+C. Incident (Correct)
+D. Resolution
+
+Explanation
+An incident is an unplanned interruption to a service or reduction in the quality of a service.

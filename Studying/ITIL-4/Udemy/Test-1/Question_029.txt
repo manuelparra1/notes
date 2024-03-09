@@ -1,0 +1,11 @@
+Question 29: Incorrect
+
+What is a change schedule NOT used for?
+
+A. Developing features (Correct)
+B. Planning changes
+C. Avoiding conflicts
+D. Assigning resources (Incorrect)
+
+Explanation
+A change schedule is used to help plan changes, assist in communication, avoid conflicts, and assign resources. By publishing the change schedule, everyone in the organization can know when a change is occurring, what people or components will be affected by the change, and when downtime or outages may occur. Change schedules are not used to develop features for a service.

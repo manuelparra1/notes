@@ -1,0 +1,12 @@
+Question 2: Incorrect
+
+Identify the missing word(s) in the following sentence. A customer is a person who defines the requirements for a service and takes responsibility for the [?] of service consumption.
+
+A. Outcomes (Correct)
+B. Cost (Incorrect)
+C. Outputs
+D. Benefits
+
+Explanation
+
+A customer is a person who defines the requirements for a service and takes responsibility for the outcomes of service consumption.

@@ -1,0 +1,11 @@
+Question 28: Incorrect
+
+What is usually NOT included as part of ‘incident management’?
+
+A. Ensure expected performance levels are maintained (Incorrect)
+B. Observation of all services and service components to identify any change in state
+C. Detailed procedures for the diagnosis of incidents (Correct)
+D. Use of specialized knowledge for complicated incidents
+
+Explanation
+This process does not usually include detailed procedures on how to diagnose, investigate, and resolve incidents.

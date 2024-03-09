@@ -1,0 +1,11 @@
+Question 24: Incorrect
+
+Which guiding principle should you use to maximize the value of the work carried out by the human and technical resources within an organization?
+
+A. Think and work holistically (Incorrect)
+B. Progress iteratively with feedback
+C. Focus on value
+D. Optimize and automate (Correct)
+
+Explanation
+The guiding principle of ‘optimize and automate’ is used to maximize the value of the work carried out by the human and technical resources within an organization.

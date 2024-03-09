@@ -1,0 +1,11 @@
+Question 3: Incorrect
+
+What is the definition of a change?
+
+A. The addition, modification, or removal of anything that could have a direct or indirect effect on services (Correct)
+B. An unplanned interruption to a service or reduction in the quality of a service (Incorrect)
+C. A cause, or potential cause, of one or more incidents
+D. An issue that has been analyzed but has not been resolved
+
+Explanation
+A change is the addition, modification, or removal of anything that could have a direct or in direct effect on services.

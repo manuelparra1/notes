@@ -1,0 +1,11 @@
+Question 38: Incorrect
+
+How does 'service level management contribute to the ‘improve' value chain activity?
+
+A. Uses feedback from users about the service and requirements from customers to make the service better (Correct)
+B. Provides feedback from interactions with customers into new or changed services
+C. Provides information about the actual service performance and trends (Incorrect)
+D. Collects feedback during interactions and communicates service performance objectives to the operations and support teams
+
+Explanation
+The 'improve' activity in the service level management practice uses feedback from users about the service and requirements from customers to make recommendations to improve the service.

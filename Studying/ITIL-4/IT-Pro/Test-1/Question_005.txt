@@ -1,0 +1,6 @@
+What term refers to the act of sharing awareness or transferring ownership of an issue or a work item?
+
+A) escalation (Correct)
+B) Incident management
+C) flagging (My Response)
+D) swarming

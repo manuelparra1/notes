@@ -1,0 +1,11 @@
+Question 10: Incorrect
+
+Dion Training has outsourced the development of a mobile application to support their students' learning while on the go. Instead of paying a fixed-fee for the development though, Dion Training has negotiated with the developers to instead pay them a royalty fee for each student who logs into the service through their smartphone app. To control costs, Dion Training has decided to only allow students on their higher membership levels to be given access to the application. Which of the following terms best describes the activities performed by Dion Training in this example?
+
+A. Service Offering (Incorrect)
+B. Service Relationship Management
+C. Service Provision
+D. Service Consumption (Correct)
+
+Explanation
+Service consumption refers to the activities performed by an organization to consume services, which includes the management of the consumer's resources needed to use the service, service use actions performed by users, and may include the receiving

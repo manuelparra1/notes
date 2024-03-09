@@ -1,0 +1,11 @@
+Question 32: Incorrect
+
+The users on the fourth floor of your building keep calling the service desk to report that their network connectivity is not working properly. The service desk logs each of these incidents, but since there are multiple incidents for the same issue, they forward it to the problem management activity for resolution. During your analysis, you determine that the network switch that services the entire fourth floor is broken and will need to be replaced. You checked the current inventory of spares, but there are none available. It appears this problem will remain for 24 hours until a new switch can be received and installed, How would you categorize the issue described in this scenario?
+
+A. Known Error (Correct)
+B. Workaround
+C. Problem
+D. Incident (Incorrect)
+
+Explanation
+A known error is a problem that has been analyzed but has not been resolved. Since the issue is known (the network switch is broken and must be replaced), but not resolved (awaiting a new switch to arrive and be configured), this is a known error.

@@ -1,0 +1,11 @@
+Question 15: Incorrect
+
+What is defined as the practice of planning and managing the full lifecycle of all IT assets?
+
+A. Change Enablement
+B. IT Asset Management (Correct)
+C. Release Management (Incorrect)
+D. Deployment Management
+
+Explanation
+IT asset management is the practice of planning and managing the full lifecycle of all IT assets.

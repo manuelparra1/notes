@@ -1,0 +1,11 @@
+Question 32: Incorrect
+
+What is NOT a phase in problem management?
+
+A. Problem ident
+B. Problem classification (Correct)
+C. Problem control
+D. Error control (Incorrect)
+
+Explanation
+Problem management involves three distinct phases: problem identification, problem control, and error control.
