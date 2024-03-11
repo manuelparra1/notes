@@ -488,7 +488,113 @@
 
 > This action involves initiating standard changes as part of the 'design and transition' activity to fulfill service requests efficiently. During the design and transition phase, service request management employees may identify opportunities to streamline processes or introduce standard changes that improve service delivery. Initiating standard changes aligns with this phase as it ensures that service requests are handled consistently and in accordance with established procedures.
 
+# Test 2 - Attempt 2
 
+## Question 10: Incorrect
+
+### Dion Training has decided not to run their own email servers. Instead, Dion Training pays a monthly service fee to Google's G-Suite to provide email services to the company so that Dion Training can receive emails from its students. What best describes this co-creation of value by Dion Training and Google in order to provide email support to Dion Training's students?
+
+- A) Service Offering
+- B) Service Relationship Management (Correct)
+- C) Service Provision
+- D) Service Consumption (Incorrect)
+
+**Explanation**
+
+- A) Service Offering:
+
+> This option refers to what the service provider offers to its customers, which doesn't fully capture the collaborative aspect of the relationship.
+
+- B) Service Relationship Management:
+
+> This is the correct choice as it accurately describes the collaborative nature of the relationship between Dion Training and Google's G-Suite.
+
+- C) Service Provision:
+
+> This option focuses on the act of delivering services rather than the collaborative aspect of value creation.
+
+- D) Service Consumption:
+
+> This option refers to the utilization of services by customers and doesn't capture the collaborative nature between the service provider and customer.
+
+
+## Question 33: Incorrect
+
+### How does 'service request management’ contribute to the ‘deliver and support’ value chain activity?
+
+- A) It ensures that users continue to be productive when they need assistance from the service provider (Correct)
+- B) It collects user-specific requirements, sets expectations, and provides status updates
+- C) By initiating standard changes to fulfill service requests (Incorrect)
+- D) It acquires pre-approved service components to help fulfill service requests
+
+**Explanation**
+- A) It ensures that users continue to be productive when they need assistance from the service provider:
+
+> This option accurately describes the role of service request management in maintaining user productivity.
+
+- B) It collects user-specific requirements, sets expectations, and provides status updates:
+
+> This option describes requirements gathering and communication, which is not the primary role of service request management.
+
+- C) By initiating standard changes to fulfill service requests:
+
+> This option describes change management, not service request management.
+
+- D) It acquires pre-approved service components to help fulfill service requests:
+
+> This option describes procurement, which is not directly related to service request management.
+
+## Question 38: Incorrect
+
+### How does 'service level management' contribute to the 'improve' value chain activity?
+
+- A) Uses feedback from users about the service and requirements from customers to make the service better (Correct)
+- B) Provides feedback from interactions with customers into new or changed services
+- C) Provides information about the actual service performance and trends
+- D) Collects feedback during interactions and communicates service performance objectives to the operations and support teams (Incorrect)
+
+**Explanation**
+- A) Uses feedback from users about the service and requirements from customers to make the service better:
+
+> This option accurately describes the role of service level management in improving services based on feedback.
+
+- B) Provides feedback from interactions with customers into new or changed services:
+
+> This option describes feedback mechanisms but doesn't emphasize the improvement aspect as directly as option A.
+
+- C) Provides information about the actual service performance and trends:
+
+> This option focuses on performance monitoring rather than improvement.
+
+- D) Collects feedback during interactions and communicates service performance objectives to the operations and support teams:
+
+> This option describes the communication of objectives but doesn't directly address the improvement aspect.
+
+## Question 40: Incorrect
+
+### What is an example of an action a service request management employee would undertake as part of the ‘design and transition’ activity?
+
+- A) Ensuring users continue to be productive when they need assistance from the service provider
+- B) Collecting user-specific requirements, setting expectations, and providing status updates (Incorrect)
+- C) Acquiring pre-approved service components to help fulfill service requests
+- D) Initiating standard changes to fulfill service requests (Correct)
+
+**Explanation**
+- A) Ensuring users continue to be productive when they need assistance from the service provider:
+
+> This option describes the ongoing support aspect, not the design and transition activity.
+
+- B) Collecting user-specific requirements, setting expectations, and providing status updates:
+
+> This option describes requirements gathering, which is not specific to the design and transition activity.
+
+- C) Acquiring pre-approved service components to help fulfill service requests:
+
+> This option describes procurement, which is not directly related to the design and transition activity.
+
+- D) Initiating standard changes to fulfill service requests:
+
+> This option accurately describes the role of service request management in initiating changes during the design and transition phase.
 
 # Test 3
 
@@ -1130,8 +1236,10 @@ activity?
 - D) Outcomes
 
 **Explanation**
-<br>
-C) Utility (Correct): Utility refers to the functionality offered by a service to meet a particular need or achieve a specific outcome, making it "fit for purpose."
+
+- C) Utility (Correct):
+
+> Utility refers to the functionality offered by a service to meet a particular need or achieve a specific outcome, making it "fit for purpose."
 
 - A) Warranty (Incorrect):
 
