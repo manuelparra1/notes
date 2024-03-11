@@ -1,0 +1,53 @@
+# Test 2 - Attempt 2
+
+## Question 10: Incorrect
+
+### Dion Training has decided not to run their own email servers. Instead, Dion Training pays a monthly service fee to Google's G-Suite to provide email services to the company so that Dion Training can receive emails from its students. What best describes this co-creation of value by Dion Training and Google in order to provide email support to Dion Training's students?
+
+- A) Service Offering
+- B) Service Relationship Management (Correct)
+- C) Service Provision
+- D) Service Consumption (Incorrect)
+
+**Explanation**
+
+> Service relationship management refers to the joint activities performed by a service provider and a service consumer to ensure continual value co-creation based on agreed and available service offerings. In this example, Google is acting as the service provider and Dion Training is acting as the service consumer for the email services. This enables the co-creation of value to Dion Training and aids in their ability to provide email support to their students.
+
+## Question 33: Incorrect
+
+### How does 'service request management’ contribute to the ‘deliver and support’ value chain activity?
+
+- A) It ensures that users continue to be productive when they need assistance from the service provider (Correct)
+- B) It collects user-specific requirements, sets expectations, and provides status updates
+- C) By initiating standard changes to fulfill service requests (Incorrect)
+- D) It acquires pre-approved service components to help fulfill service requests
+
+**Explanation**
+
+> This is the ‘deliver and support’ activity. Deliver and support ensures users continue to be productive when they need assistance from the service provider.
+
+## Question 38: Incorrect
+
+### How does 'service level management' contribute to the 'improve' value chain activity?
+
+- A) Uses feedback from users about the service and requirements from customers to make the service better (Correct)
+- B) Provides feedback from interactions with customers into new or changed services
+- C) Provides information about the actual service performance and trends
+- D) Collects feedback during interactions and communicates service performance objectives to the operations and support teams (Incorrect)
+
+**Explanation**
+
+> The 'improve' activity in the service level management practice uses feedback from users about the service and requirements from customers to make recommendations to improve the service.
+
+## Question 40: Incorrect
+
+### What is an example of an action a service request management employee would undertake as part of the ‘design and transition’ activity?
+
+- A) Ensuring users continue to be productive when they need assistance from the service provider
+- B) Collecting user-specific requirements, setting expectations, and providing status updates (Incorrect)
+- C) Acquiring pre-approved service components to help fulfill service requests
+- D) Initiating standard changes to fulfill service requests (Correct)
+
+**Explanation**
+
+> This is the 'design and transition’ activity. Standard changes to services can be initiated and fulfilled as service requests.

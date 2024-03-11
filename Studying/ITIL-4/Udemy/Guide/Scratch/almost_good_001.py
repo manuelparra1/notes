@@ -1,5 +1,5 @@
-import json
 import re
+import json
 
 
 def markdown_to_json(markdown_file):
@@ -16,13 +16,14 @@ def markdown_to_json(markdown_file):
         for question_number, question_content in questions:
             question = {"question_number": question_number.strip(), "choices": []}
             question_data = re.match(
-                r"## Question \d+: (.*?)Explanation", question_content, re.DOTALL
+                r"(.*?)(Explanation.*?)\Z", question_content, re.DOTALL
             )
             if question_data:
-                question_text = question_data.group(1).strip()
-                question["question_text"] = question_text
+                question_text, choices_and_explanation = question_data.groups()
                 explanation_matches = re.findall(
-                    r"- (\w+)\) (.+?):\n\n>(.*?)\n\n", question_content, re.DOTALL
+                    r"- (\w+)\) (.+?):\n\n>(.*?)\n\n",
+                    choices_and_explanation,
+                    re.DOTALL,
                 )
                 for choice, text, explanation in explanation_matches:
                     is_correct = choice.startswith("(")
@@ -37,6 +38,7 @@ def markdown_to_json(markdown_file):
                             "explanation": explanation.strip(),
                         }
                     )
+                question["question_text"] = question_text.strip()
                 question["status"] = (
                     "Incorrect" if question_text.endswith("Incorrect") else "Correct"
                 )

@@ -1,0 +1,331 @@
+{
+  "tests": [
+    {
+      "test_number": "1",
+      "questions": [
+        {
+          "question_number": "14",
+          "choices": [
+            {
+              "choice": "B",
+              "text": "Focus on value (Correct)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This guiding principle emphasizes delivering value to customers and stakeholders. As customer experience (CX) is directly related to the value perceived by the customer, focusing on value is most affected by CX."
+            },
+            {
+              "choice": "A",
+              "text": "Progress iteratively with feedback (Incorrect)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "While this principle involves feedback, it is more about the iterative improvement process rather than directly focusing on customer experience."
+            },
+            {
+              "choice": "C",
+              "text": "Think and work holistically",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This principle encourages considering the entire system but is not specifically focused on customer experience."
+            },
+            {
+              "choice": "D",
+              "text": "Start where you are",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This principle emphasizes practicality but doesn't directly address customer experience."
+            }
+          ],
+          "question_text": "Incorrect\n\n**Which guiding principle is most affected by the customer experience (CX)?**\n\n- A) Progress iteratively with feedback **(Incorrect)**\n- B) Focus on value **(Correct)**\n- C) Think and work holistically\n- D) Start where you are\n\n**",
+          "status": "Correct"
+        },
+        {
+          "question_number": "24",
+          "choices": [
+            {
+              "choice": "B",
+              "text": "What is the vision (Correct)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This step in the continual improvement model focuses on defining the future state or vision that the organization aims to achieve."
+            },
+            {
+              "choice": "C",
+              "text": "Where do we want to be (Incorrect)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This step is more about defining the current state and comparing it to the future state, rather than ensuring alignment with organizational goals."
+            },
+            {
+              "choice": "A",
+              "text": "Where are we now",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This step involves assessing the current state of the organization."
+            },
+            {
+              "choice": "D",
+              "text": "How do we get there",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This step involves planning and executing initiatives to achieve the defined vision."
+            }
+          ],
+          "question_text": "Incorrect\n\n**Which step of the continual improvement model states that \"each improvement initiative should support the organization's goals and objectives\"?**\n\n- A) Where are we now\n- B) What is the vision **(Correct)**\n- C) Where do we want to be **(Incorrect)**\n- D) How do we get there\n\n**",
+          "status": "Correct"
+        },
+        {
+          "question_number": "32",
+          "choices": [
+            {
+              "choice": "B",
+              "text": "Problem classification (Correct)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "Problem classification is not a phase in problem management or a concept defined in ITIL 4. Problem management typically involves problem identification, problem control, and error control phases."
+            },
+            {
+              "choice": "A",
+              "text": "Problem Identification",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This is a phase in problem management."
+            },
+            {
+              "choice": "C",
+              "text": "Problem control",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This is also a phase in problem management."
+            },
+            {
+              "choice": "D",
+              "text": "Error control (Incorrect)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "Error control is typically part of problem management."
+            }
+          ],
+          "question_text": "Incorrect\n\n**What is NOT a phase in problem management?**\n\n- A) Problem Identification\n- B) Problem classification **(Correct)**\n- C) Problem control\n- D) Error control **(Incorrect)**\n\n**",
+          "status": "Correct"
+        }
+      ]
+    },
+    {
+      "test_number": "3",
+      "questions": [
+        {
+          "question_number": "5",
+          "choices": [
+            {
+              "choice": "A",
+              "text": "Incident Management",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This term refers to the practice of managing and resolving incidents, which are unplanned interruptions or reductions in the quality of IT services. While incident management is related to capturing demand for incident resolution, it does not directly fill in the missing word in the sentence."
+            },
+            {
+              "choice": "B",
+              "text": "Service Level Management",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This term refers to the practice of setting, monitoring, and managing the level of IT services provided to customers. It ensures that agreed-upon service levels are met and maintained. While it plays a role in overall service delivery, it does not directly fill in the missing word in the sentence."
+            },
+            {
+              "choice": "C",
+              "text": "Service Request Management (Incorrect)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This term refers to the practice of handling and fulfilling service requests from users or customers. While it involves capturing demand for service requests, it does not directly fill in the missing word in the sentence."
+            }
+          ],
+          "question_text": "Incorrect\n\nIdentify the missing word in the following sentence. The [?] is the practice of capturing demand for incident resolution and service requests.\n\n- A) Incident Management\n- B) Service Level Management\n- C) Service Request Management **(Incorrect)**\n- D) Service Desk **(Correct)**\n\n**",
+          "status": "Correct"
+        },
+        {
+          "question_number": "22",
+          "choices": [
+            {
+              "choice": "B",
+              "text": "Formalized processes for logging incidents (Correct)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "Incident management typically includes formalized processes for logging, categorizing, prioritizing, and resolving incidents."
+            },
+            {
+              "choice": "A",
+              "text": "Detailed procedures for the diagnosis of incidents (Incorrect)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "While diagnosis is part of incident management, it's not typically included as part of the definition."
+            },
+            {
+              "choice": "C",
+              "text": "Observation of all services and service components to identify any change in state",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This option describes a monitoring activity, not specifically incident management."
+            },
+            {
+              "choice": "D",
+              "text": "Authority to implement changes to a system (Incorrect)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This option describes change management authority, not incident management."
+            }
+          ],
+          "question_text": "Incorrect\n\n**What is usually included as part of 'incident management'?**\n\n- A) Detailed procedures for the diagnosis of incidents\n- B) Formalized processes for logging incidents **(Correct)**\n- C) Observation of all services and service components to identify any change in state\n- D) Authority to implement changes to a system (incorrect)\n\n**",
+          "status": "Correct"
+        },
+        {
+          "question_number": "32",
+          "choices": [
+            {
+              "choice": "D",
+              "text": "Known Error (Correct)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "In ITIL, a known error is a problem that has a documented root cause and a workaround but has not been permanently resolved. Since the broken network switch has been identified as the root cause and there is no immediate solution available, it qualifies as a known error."
+            },
+            {
+              "choice": "B",
+              "text": "Workaround (Incorrect)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "While a workaround might be implemented to mitigate the impact of the issue, the scenario describes a problem that needs to be resolved."
+            },
+            {
+              "choice": "C",
+              "text": "Problem",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "A problem is an underlying cause of one or more incidents. In this scenario, the problem has been identified as the broken network switch."
+            },
+            {
+              "choice": "A",
+              "text": "Incident",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "An incident is an unplanned interruption to a service or a reduction in the quality of a service. The scenario does not describe an incident but rather a problem that needs to be addressed."
+            }
+          ],
+          "question_text": "Incorrect\n\n**Your laptop only has a 256GB of SSD storage installed. You have been traveling for work for the last 2 weeks and have downloaded a lot of video files to your internal storage device. Your computer is having issues because there is not enough free space. You called your service desk, but since you are out of the country, they cannot remotely back up all the files on your laptop. They recommend that you move the large files from your internal storage device (256GB SSD) to an external hard drive to free up some available space. Unfortunately, you don't have an external hard drive with you, so you will purchase one at the store later today. How would you classify this situation and the solution recommended?**\n\n- A) Incident\n- B) Workaround **(Incorrect)**\n- C) Problem\n- D) Known Error **(Correct)**\n\n**",
+          "status": "Correct"
+        }
+      ]
+    },
+    {
+      "test_number": "4",
+      "questions": [
+        {
+          "question_number": "1",
+          "choices": [
+            {
+              "choice": "A",
+              "text": "A set of specialized organizational capabilities for enabling value to customers (Correct)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This is the correct definition of service management according to ITIL 4. It emphasizes the organization's capability to provide value to customers through services."
+            },
+            {
+              "choice": "B",
+              "text": "The means by which an organization is directed and controlled",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This definition refers to governance rather than service management."
+            },
+            {
+              "choice": "C",
+              "text": "A method for visualizing work, identifying potential blockages and resource conflicts, and managing work in progress",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This describes aspects of workflow management or project management, not service management."
+            },
+            {
+              "choice": "D",
+              "text": "A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks (Incorrect)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "While this choice mentions value co-creation, it does not encompass the full scope of service management as defined in ITIL 4."
+            }
+          ],
+          "question_text": "Incorrect\n\n### What is the definition of service management?\n\n- A) A set of specialized organizational capabilities for enabling value to customers (Correct)\n- B) The means by which an organization is directed and controlled\n- C) A method for visualizing work, identifying potential blockages and resource conflicts, and managing work in progress\n- D) A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks (Incorrect)\n\n**",
+          "status": "Correct"
+        },
+        {
+          "question_number": "10",
+          "choices": [
+            {
+              "choice": "A",
+              "text": "Service Offering (Incorrect)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "Service offering typically refers to the collection of services provided by an organization."
+            },
+            {
+              "choice": "B",
+              "text": "Service Relationship Management",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This term is not commonly used in ITIL 4."
+            },
+            {
+              "choice": "C",
+              "text": "Service Provision",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This term refers to the process of delivering services to customers."
+            },
+            {
+              "choice": "D",
+              "text": "Service Consumption (Correct)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This accurately describes the activity of consuming services, which includes managing costs and access."
+            }
+          ],
+          "question_text": "Incorrect\n\n### Dion Training has outsourced the development of a mobile application to support their students' learning while on the go. Instead of paying a fixed-fee for the development though, Dion Training has negotiated with the developers to instead pay them a royalty fee for each student who logs into the service through their smartphone app. To control costs, Dion Training has decided to only allow students on their higher membership levels to be given access to the application. Which of the following terms best describes the activities performed by Dion Training in this example?\n\n- A) Service Offering (Incorrect)\n- B) Service Relationship Management\n- C) Service Provision\n- D) Service Consumption (Correct)\n\n**",
+          "status": "Correct"
+        },
+        {
+          "question_number": "33",
+          "choices": [
+            {
+              "choice": "A",
+              "text": "By collecting user-specific request requirements (Incorrect)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "While this is a part of service request management, it does not directly contribute to the 'design and transition' activity."
+            },
+            {
+              "choice": "B",
+              "text": "By acquiring pre-approved service components",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This choice does not specifically relate to service request management or design and transition."
+            },
+            {
+              "choice": "C",
+              "text": "It analyzes data to identify opportunities to provide new service request options",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This choice focuses on service improvement rather than directly contributing to design and transition."
+            },
+            {
+              "choice": "D",
+              "text": "By initiating standard changes to fulfill service requests (Correct)",
+              "is_correct": false,
+              "user_response": false,
+              "explanation": "This choice directly contributes to the 'design and transition' activity by initiating standard changes as service requests."
+            }
+          ],
+          "question_text": "Incorrect\n\n### How does \u2018service request management\u2019 contribute to \u2018design and transition\u2019 activity?\n\n- A) By collecting user-specific request requirements (Incorrect)\n- B) By acquiring pre-approved service components\n- C) It analyzes data to identify opportunities to provide new service request options\n- D) By initiating standard changes to fulfill service requests (Correct)\n\n**",
+          "status": "Correct"
+        }
+      ]
+    },
+    {
+      "test_number": "",
+      "questions": []
+    }
+  ]
+}
