@@ -1,0 +1,79 @@
+{
+    "tests": [
+        {
+            "test_number": "1",
+            "questions": [
+                {
+                    "question_number": "14",
+                    "status": "Incorrect",
+                    "question_text": "Which guiding principle is most affected by the customer experience (CX)?",
+                    "choices": [
+                        {
+                            "choice": "A",
+                            "text": "Progress iteratively with feedback",
+                            "is_correct": false,
+                            "user_response": true,
+                            "explanation": "While this principle involves feedback, it is more about the iterative improvement process rather than directly focusing on customer experience."
+                        },
+                        {
+                            "choice": "B",
+                            "text": "Focus on value",
+                            "is_correct": true,
+                            "user_response": false,
+                            "explanation": "This guiding principle emphasizes delivering value to customers and stakeholders. As customer experience (CX) is directly related to the value perceived by the customer, focusing on value is most affected by CX."
+                        },
+                        {
+                            "choice": "C",
+                            "text": "Think and work holistically",
+                            "is_correct": false,
+                            "user_response": false,
+                            "explanation": "This principle encourages considering the entire system but is not specifically focused on customer experience."
+                        },
+                        {
+                            "choice": "D",
+                            "text": "Start where you are",
+                            "is_correct": false,
+                            "user_response": false,
+                            "explanation": "This principle emphasizes practicality but doesn't directly address customer experience."
+                        }
+                    ]
+                },
+                {
+                    "question_number": "20",
+                    "status": "Incorrect",
+                    "question_text": "Which of these are NOT a key focus of the 'partners and suppliers' dimension?",
+                    "choices": [
+                        {
+                            "choice": "A",
+                            "text": "Work-flow management and inventory systems",
+                            "is_correct": true,
+                            "user_response": false,
+                            "explanation": "While workflow management and inventory systems are important aspects, they are not key focuses of the 'partners and suppliers' dimension. \"Work-flow management and inventory systems\" typically falls under the \"Service Value System\" only supported by the Information Technology Dimension. Partners & Suppliers Dimension is more concerned with roles, responsibilities, contracts, agreements, security, and compliance."
+                        },
+                        {
+                            "choice": "B",
+                            "text": "Roles and responsibilities",
+                            "is_correct": false,
+                            "user_response": false,
+                            "explanation": "This is a key focus of the 'partners and suppliers' dimension."
+                        },
+                        {
+                            "choice": "C",
+                            "text": "Contracts and agreements",
+                            "is_correct": false,
+                            "user_response": false,
+                            "explanation": "Also a key focus of the 'partners and suppliers' dimension."
+                        },
+                        {
+                            "choice": "D",
+                            "text": "Security and compliance",
+                            "is_correct": false,
+                            "user_response": true,
+                            "explanation": "Security and compliance are key focuses of the 'partners and suppliers' dimension."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
