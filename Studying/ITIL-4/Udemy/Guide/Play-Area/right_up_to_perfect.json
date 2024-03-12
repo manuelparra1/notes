@@ -1,0 +1,1769 @@
+[
+  {
+    "question_number": 14,
+    "status": "Incorrect",
+    "question": "Which guiding principle is most affected by the customer experience (CX)?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Progress iteratively with feedback **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Focus on value **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Think and work holistically",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Start where you are",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 20,
+    "status": "Incorrect",
+    "question": "Which of these are NOT a key focus of the \u2018partners and suppliers\u2019 dimension?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Work-flow management and inventory systems **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Roles and responsibilities",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Contracts and agreements",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Security and compliance **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 24,
+    "status": "Incorrect",
+    "question": "Which step of the continual improvement model states that \"each improvement initiative should support the organization's goals and objectives\"?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Where are we now",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "What is the vision **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Where do we want to be **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "How do we get there",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 29,
+    "status": "Incorrect",
+    "question": "What is a change schedule NOT used for?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Developing features **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Planning changes",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Avoiding conflicts",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Assigning resources **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 32,
+    "status": "Incorrect",
+    "question": "What is NOT a phase in problem management?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Problem Identification",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Problem classification **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Problem control",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Error control **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 39,
+    "status": "Incorrect",
+    "question": "How does 'service level management' contribute to the 'plan' value chain activity?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Uses feedback from users about the service and requirements from customers to make the service better",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Provides information about the actual service performance and trends **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Collects and processes feedback from customers and users",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Collects feedback during interactions and communicates service performance objectives to the operations and support teams **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 2,
+    "status": "Incorrect",
+    "question": "(Correct)",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Outcomes **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Cost **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Outputs",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Benefits",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 3,
+    "status": "Incorrect",
+    "question": "What is the definition of an IT asset?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "A particular set of settings or options on a given piece of equipment",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Any valuable component that can contribute to the delivery of an IT product or service **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Any component that needs to be managed in order to deliver an IT service **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 17,
+    "status": "Incorrect",
+    "question": "During a review of the New Account Creation process at your company, you determine that the current process requires 15 steps to create a new account. As you analyze each step, you find that steps 3 and 5 provide no value to the process or the organization. Based on which guiding principle should you eliminate steps 3 and 5 from the process?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Think and work holistically",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Keep it simple and practical **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Optimize and automate **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Focus on value",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 23,
+    "status": "Incorrect",
+    "question": "Your company has recently engaged a new supplier to provide you with 3 routers that will handle 1 Gbps of throughput. They are scheduled for installation in three months. Your team is currently configuring the devices in preparation for installation into the network architecture based upon the design requirements. Which value chain activity would best categorize your configuration actions in this scenario?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Design and transition **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Engage",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Obtain/build **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Deliver and support",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 25,
+    "status": "Incorrect",
+    "question": "You are working as part of an improvement initiative and your team would like to release a new module into the existing Customer Relationship Management system. Which type of change should you initiate?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Standard **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Normal **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Emergency",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Routine",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 28,
+    "status": "Incorrect",
+    "question": "You are attempting to print a document from your workstation to the network printer in your office. The print job failed when you attempted to print, so you called the service desk for assistance. What term best describes your issue?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Problem",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Event **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Incident **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Resolution",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 30,
+    "status": "Incorrect",
+    "question": "What is usually included as part of \u2018incident management\u2019?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Scripts for collecting initial information about incidents **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Detailed procedures for the diagnosis of incidents **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Authority to implement changes to a system",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Observation of all services and service components to identify any change in state",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 31,
+    "status": "Incorrect",
+    "question": "You are working as a service desk analyst. Within the last hour, you have received 13 calls about users being unable to log on to the network. There appears to be something wrong with the domain controller. What would you classify this scenario as?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Incident **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Workaround",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Problem **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Event",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 32,
+    "status": "Incorrect",
+    "question": "The users on the fourth floor of your building keep calling the service desk to report that their network connectivity is not working properly. The service desk logs each of these incidents, but since there are multiple incidents for the same issue, they forward it to the problem management activity for resolution. During your analysis, you determine that the network switch that services the entire fourth floor is broken and will need to be replaced. You checked the current inventory of spares, but there are none available. It appears this problem will remain for 24 hours until a new switch can be received and installed, How would you categorize the issue described in this scenario?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Known Error **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Workaround",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Problem",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Incident **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 37,
+    "status": "Incorrect",
+    "question": "You are in a quarterly service level management review with your supervisor. The manager asks your supervisor if the service desk has been meeting their SLA target metrics. Your supervisor proudly proclaims that everything is \u2018green\u2019 (meaning, we are meeting all of the targets). Just then, another executive asks, \"If everything is showing as \u2018green\u2019, why am I hearing other users complain that the service is always unavailable for use?\" What might be the reason for this?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Your supervisor's data is based on operational metrics",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Your supervisor's data is based on business metrics",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Your supervisor's data is based on availability metrics **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Your supervisor's data is not based on business outcomes **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 38,
+    "status": "Incorrect",
+    "question": "How does 'service level management contribute to the \u2018improve' value chain activity?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Uses feedback from users about the service and requirements from customers to make the service better **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Provides feedback from interactions with customers into new or changed services",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Provides information about the actual service performance and trends **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Collects feedback during interactions and communicates service performance objectives to the operations and support teams",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 40,
+    "status": "Incorrect",
+    "question": "What is an example of an action a service request management employee would undertake as part of the 'design and transition' activity?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Ensuring users continue to be productive when they need assistance from the service provider",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Collecti user-specific requirements, setting expectations, and providing status updates **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Acquiring pre-approved service components to help fulfill service requests",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Initiating standard changes to fulfill service requests **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 10,
+    "status": "Incorrect",
+    "question": "Explanation",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Service Offering",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Service Relationship Management (Correct)",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Service Provision",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Service Consumption (Incorrect)",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 33,
+    "status": "Incorrect",
+    "question": "Explanation",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "It ensures that users continue to be productive when they need assistance from the service provider (Correct)",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "It collects user-specific requirements, sets expectations, and provides status updates",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "By initiating standard changes to fulfill service requests (Incorrect)",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "It acquires pre-approved service components to help fulfill service requests",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 38,
+    "status": "Incorrect",
+    "question": "Explanation",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Uses feedback from users about the service and requirements from customers to make the service better (Correct)",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Provides feedback from interactions with customers into new or changed services",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Provides information about the actual service performance and trends",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Collects feedback during interactions and communicates service performance objectives to the operations and support teams (Incorrect)",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 40,
+    "status": "Incorrect",
+    "question": "Explanation",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Ensuring users continue to be productive when they need assistance from the service provider",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Collecting user-specific requirements, setting expectations, and providing status updates (Incorrect)",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Acquiring pre-approved service components to help fulfill service requests",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Initiating standard changes to fulfill service requests (Correct)",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 5,
+    "status": "Incorrect",
+    "question": "(Incorrect)",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Incident Management",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Service Level Management",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Service Request Management **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Service Desk **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 20,
+    "status": "Incorrect",
+    "question": "During which step of the continual improvement model do you create your objective baseline measurement?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "What is the vision",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Where are we now **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "How do we get there",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Where do we want to be **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 22,
+    "status": "Incorrect",
+    "question": "What is usually included as part of 'incident management'?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Detailed procedures for the diagnosis of incidents",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Formalized processes for logging incidents **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Observation of all services and service components to identify any change in state",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Authority to implement changes to a system (incorrect)",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 26,
+    "status": "Incorrect",
+    "question": "How does 'service request management\u2019 contribute to the 'engage' value chain activity?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "It ensures that users continue to be productive when they need assistance from the service provider",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Itcollects user-specific requirements, sets expectations, and provides status updates (acsd",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "By initiating standard changes to fulfill service requests",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "It acquires pre-approved service components to help fulfill requests",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 32,
+    "status": "Incorrect",
+    "question": "Your laptop only has a 256GB of SSD storage installed. You have been traveling for work for the last 2 weeks and have downloaded a lot of video files to your internal storage device. Your computer is having issues because there is not enough free space. You called your service desk, but since you are out of the country, they cannot remotely back up all the files on your laptop. They recommend that you move the large files from your internal storage device (256GB SSD) to an external hard drive to free up some available space. Unfortunately, you don't have an external hard drive with you, so you will purchase one at the store later today. How would you classify this situation and the solution recommended?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Incident",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Workaround **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Problem",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Known Error **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 33,
+    "status": "Incorrect",
+    "question": "How does 'service level management' contribute to the 'engage' value chain activity?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Collects feedback during interactions and communicates service performance objectives to the operations and support teams",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Provides feedback from interactions with customers into new or changed",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Collects and processes feedback from customers and users **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Provides information about the actual service performance and trends **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 14,
+    "status": "Incorrect",
+    "question": "What is the purpose of the service level management\u2019 practice?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Establishing and nurturing links between an organization and its stakeholders at strategic and tactical levels **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "\u2018Supporting the agreed quality of a service by handling all pre-defined, initiated service requests in an effective and user-friendly manner",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Ensuring that an organization's suppliers and their performance levels are managed appropriately to support the provision of seamless quality products and services",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Setting clear business-based targets for service performance so that the delivery of a service can be properly assessed,monitored, and managed against these targets **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 15,
+    "status": "Incorrect",
+    "question": "What is defined as the practice of planning and managing the full lifecycle of all IT assets?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Change Enablement",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "IT Asset Management **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Release Management **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Deployment Management",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 23,
+    "status": "Incorrect",
+    "question": "Which value chain activity ensures that products and services continually meet stakeholder expectations for quality, costs, and time to market?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Deliver And Support **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Obtain/Build",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Design And Transition **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Plan",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 28,
+    "status": "Incorrect",
+    "question": "What is usually NOT included as part of \u2018incident management\u2019?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Ensure expected performance levels are maintained **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Observation of all services and service components to identify any change in state",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Detailed procedures for the diagnosis of incidents **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Use of specialized knowledge for complicated incidents",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 35,
+    "status": "Incorrect",
+    "question": "How does \u2018service request management\u2019 contribute to \u2018design and transition\u2019 activity?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "By collecting user-specific request requirements **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "By initiating standard changes to fulfill service requests **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "By providing service request trend and quality information",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "It acquires pre-approved service components to help fulfill service requests",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 38,
+    "status": "Incorrect",
+    "question": "How does 'service level management' contribute to the \u2018design and transition\u2019 value chain activity?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Collects feedback during interactions and communicates service performance objectives to the operations and support teams **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Provides feedback from interactions with customers into new or changed services **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Provides information about the actual service performance and trends",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Provides objectives for component and service performance for products and services",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 1,
+    "status": "Incorrect",
+    "question": "Explanation",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "A set of specialized organizational capabilities for enabling value to customers (Correct)",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "The means by which an organization is directed and controlled",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "A method for visualizing work, identifying potential blockages and resource conflicts, and managing work in progress",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks (Incorrect)",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 8,
+    "status": "Incorrect",
+    "question": "Explanation",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Supplier Management (Correct)",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Service Level Management (Incorrect)",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Capacity And Performance Management",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Monitoring And Event Management",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 10,
+    "status": "Incorrect",
+    "question": "Explanation",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Service Offering (Incorrect)",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Service Relationship Management",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Service Provision",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Service Consumption (Correct)",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 11,
+    "status": "Incorrect",
+    "question": "Explanation",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Warranty (Incorrect)",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Output",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Utility (Correct)",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Outcomes",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 33,
+    "status": "Incorrect",
+    "question": "Explanation",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "By collecting user-specific request requirements (Incorrect)",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "By acquiring pre-approved service components",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "It analyzes data to identify opportunities to provide new service request options",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "By initiating standard changes to fulfill service requests (Correct)",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 35,
+    "status": "Incorrect",
+    "question": "Explanation",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Local Service Desk Analysts",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Complex Automation",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "24x7 Support (Incorrect)",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Remote Access Tools (Correct)",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 38,
+    "status": "Incorrect",
+    "question": "Explanation",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Provides objectives for component and service performance for products and services (Correct)",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Collects feedback during interactions and communicates service performance objectives to the operations and support teams (Incorrect)",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Provides feedback from interactions with customers into new or changed services",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Provides information about the actual service performance and trends",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 1,
+    "status": "Incorrect",
+    "question": "What is the definition of service management?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "A set of specialized organizational capabities for enabling value to customers **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "The means by which an organization is directed and controlled",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "A method for visualizing work, identifying potential blockages and resource conflicts, and managing work in progress",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks (My Response)",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 2,
+    "status": "Incorrect",
+    "question": "(Incorrect)",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Products **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Services **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Functionality",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Outputs",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 3,
+    "status": "Incorrect",
+    "question": "What is the definition of a change?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "The addition, modification, or removal of anything that could have a direct or indirect effect on services **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "An unplanned interruption to a service or reduction in the quality of a service **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "A cause, or potential cause, of one or more incidents",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "An issue that has been analyzed but has not been resolved",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 4,
+    "status": "Incorrect",
+    "question": "Dion Training has outsourced the development of a mobile application to support their students' learning while on the go. Instead of paying a fixed-fee for the development though, Dion Training has negotiated with the developers to instead pay them a royalty fee for each student who logs into the service through their smartphone app. To control costs, Dion Training has decided to only allow students on their higher membership levels to be given access to the application. Which of the following terms best describes the activities performed by Dion Training in this example?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Service Offering **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Service Relationship Management",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Service Provision",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Service Consumption **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 5,
+    "status": "Incorrect",
+    "question": "What term best describes a service that is 'fit for purpose'?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Warranty **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Output",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Utility **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Outcomes",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 6,
+    "status": "Incorrect",
+    "question": "Which value chain activity ensures that service components are available when and where they are needed and meet agreed specifications?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Improve",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Deliver And Support **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Obtain/Build **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Design And Transition",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 7,
+    "status": "Incorrect",
+    "question": "You are part of a team configuring a brand new email server. You want to get permission to install the server on the corporate network to continue your configuration and testing. Which type of change should you initiate?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Standard **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Normal **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Emergency",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Routine",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 8,
+    "status": "Incorrect",
+    "question": "What should NOT be included in incident management?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "A formal process for logging and managing incidents.",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Detailed procedures on how to diagnose, investigate, and resolve incidents. **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Techniques for making investigation and diagnosis more efficient.",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Scripts for the collection of information during initial contact with a user. **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 9,
+    "status": "Incorrect",
+    "question": "How does \u2018service request management\u2019 contribute to \u2018design and transition\u2019 activity?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "By collecting user-specific request requirements.",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "By acquiring pre-approved service components.",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "It analyzes data to identify opportunities to provide new service request options. **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "By initiating standard changes to fulfill service requests. **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 10,
+    "status": "Incorrect",
+    "question": "What does a centralized service desk require?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Local Service Desk Analysts",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Complex Automation",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "24x7 Support **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Remote Access Tools **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 11,
+    "status": "Incorrect",
+    "question": "What is an example of an action a service request management employee would undertake as part of the \u2018engage\u2019 activity?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Provide trend, quality, and feedback information about requests.",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Initiate and fulfill standard changes. **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Communicate with consumers to understand their requirements. **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Fulfill the consumer's service requests through acquisition of service components.",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 4,
+    "status": "Incorrect",
+    "question": "How does \u2018service level management' contribute to the \u2018deliver and support\u2019 value chain activity?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Provides objectives for component and service performance for products and services",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Collects feedback during interactions and communicates service performance objectives to the operations and support teams **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Provides information about the actual service performance and trends **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Provides feedback from interactions with customers into new or changed services",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 11,
+    "status": "Incorrect",
+    "question": "What is the purpose of the 'release management' practice?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Moving new or changed hardware, software, documentation, processes, or any other service component to live environments **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Making new and changed services and features available for use **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Ensuring that risks are properly assessed, authorizing changes to proceed and managing a change schedule in order to maximize the number of successful IT changes",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Supporting the agreed quality of a service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 24,
+    "status": "Incorrect",
+    "question": "Which guiding principle should you use to maximize the value of the work carried out by the human and technical resources within an organization?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Think and work holistically **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Progress iteratively with feedback",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Focus on value",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Optimize and automate **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 31,
+    "status": "Incorrect",
+    "question": "What is the step after \u2018how do we keep the momentum going\u2019 in the continual improvement model?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Did we get there **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "How do we get there",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "What is the vision **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Where are we now",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  },
+  {
+    "question_number": 38,
+    "status": "Incorrect",
+    "question": "You are working as a part of the problem management team and discovered that multiple incidents are linked together due to a problem with the current version of the web browser installed on the workstations across the network. You have identified that this could be solved by upgrading the web browser to the newest available version. Your team has requested that all of the workstations in the organization receive an updated web browser through the change management activity to solve this problem. Which value chain activity will be responsible for upgrading all the workstations?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Plan",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "B",
+        "text": "Improve",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "C",
+        "text": "Engage **(Incorrect)**",
+        "is_correct": false,
+        "user_response": true
+      },
+      {
+        "letter": "D",
+        "text": "Obtain/build **(Correct)**",
+        "is_correct": false,
+        "user_response": true
+      }
+    ]
+  }
+]

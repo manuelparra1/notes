@@ -1,0 +1,7 @@
+Create a python script that opens a file named `Review_Guide.md` and saves a json version of the file named `Review_Guide.json`.
+Provided is the Markdown file structured with sections in specific markdown formatting for Tests, Question Numbers, Question Text, Choice Text (which has `(Correct)` and `(Incorrect)` annotations), Explanation Area, Choice Text Again (without annotations but ends with predictable ":"), choice explanation text.
+Each section begins with it's own unique patter either at the beginning, end, or both.
+The desired output json file has some extra keys that need to be created using logic. For example `"status"` can be used from the question number section since each ends with ":Incorrect".
+`"user_response"` can be assigned as false for each choice and true for the choicewith the text that ends with "(Incorrect)" (because these are my incorrect test questions, my choice would then be annotated by the testing software as "(Incorrect)")
+`"is_correct"` for all choices can be assigned false except for when the choice text ends with "(Correct)"
+I provided my current python file as well as one that almost worked.
