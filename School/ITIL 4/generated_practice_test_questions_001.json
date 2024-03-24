@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "A company is looking to adopt ITIL practices to improve their service management. Which principle should they follow to ensure that the cost of service delivery is justified?",
+      "choices": [
+        {"tag": "a", "text": "Start where you are", "correct": false},
+        {"tag": "b", "text": "Focus on value", "correct": true},
+        {"tag": "c", "text": "Keep it simple and practical", "correct": false},
+        {"tag": "d", "text": "Optimize and automate", "correct": false}
+      ],
+      "response_tag": "b",
+      "correctly_answered": true
+    },
+    {
+      "question": "A service desk agent is resolving an incident but realizes that additional support is needed from a third-party vendor. Which ITIL practice should the agent engage in this scenario?",
+      "choices": [
+        {"tag": "a", "text": "Change Control", "correct": false},
+        {"tag": "b", "text": "Incident Management", "correct": true},
+        {"tag": "c", "text": "Supplier Management", "correct": false},
+        {"tag": "d", "text": "Service Level Management", "correct": false}
+      ],
+      "response_tag": "b",
+      "correctly_answered": true
+    },
+    {
+      "question": "An organization is implementing ITIL 4 and wants to improve decision-making and decrease disruptions. Which concept promotes the understanding of workflow, roles, and activities necessary for the delivery of services?",
+      "choices": [
+        {"tag": "a", "text": "Service Value System", "correct": false},
+        {"tag": "b", "text": "Value Chain Activities", "correct": false},
+        {"tag": "c", "text": "Service Value Chain", "correct": true},
+        {"tag": "d", "text": "Four Dimensions of Service Management", "correct": false}
+      ],
+      "response_tag": "c",
+      "correctly_answered": true
+    },
+    {
+      "question": "An IT organization wants to ensure that their services are aligned with the needs of their customers and stakeholders. Which ITIL 4 practice assists with the facilitation of this alignment?",
+      "choices": [
+        {"tag": "a", "text": "Relationship Management", "correct": true},
+        {"tag": "b", "text": "Problem Management", "correct": false},
+        {"tag": "c", "text": "Service Request Management", "correct": false},
+        {"tag": "d", "text": "Continuous Improvement", "correct": false}
+      ],
+      "response_tag": "a",
+      "correctly_answered": true
+    },
+    {
+      "question": "During a service transition, it’s important to manage changes in a coordinated way. Which ITIL practice provides guidance to accomplish this?",
+      "choices": [
+        {"tag": "a", "text": "Incident Management", "correct": false},
+        {"tag": "b", "text": "Change Enablement", "correct": true},
+        {"tag": "c", "text": "Service Level Management", "correct": false},
+        {"tag": "d", "text": "Release Management", "correct": false}
+      ],
+      "response_tag": "b",
+      "correctly_answered": true
+    },
+    {
+      "question": "An organization is trying to gain a better understanding of their stakeholders’ needs, resources, and continual improvement. Which ITIL 4 dimension should they consider?",
+      "choices": [
+        {"tag": "a", "text": "Information and Technology", "correct": false},
+        {"tag": "b", "text": "Partners and Suppliers", "correct": false},
+        {"tag": "c", "text": "Value Streams and Processes", "correct": false},
+        {"tag": "d", "text": "Organizations and People", "correct": true}
+      ],
+      "response_tag": "d",
+      "correctly_answered": true
+    },
+    {
+      "question": "What is the primary purpose of the ITIL 'Service Request Management' practice?",
+      "choices": [
+        {"tag": "a", "text": "To support the agreed quality of a service by handling all predefined, user-initiated service requests in an effective way", "correct": true},
+        {"tag": "b", "text": "To restore normal service operation as quickly as possible", "correct": false},
+        {"tag": "c", "text": "To systematically observe services and service components", "correct": false},
+        {"tag": "d", "text": "To align the organization’s practices and services with business needs", "correct": false}
+      ],
+      "response_tag": "a",
+      "correctly_answered": true
+    },
+    {
+      "question": "What does the ITIL 'Continual Improvement Model' provide a structured approach for?",
+      "choices": [
+        {"tag": "a", "text": "Resolving service failures and ensuring components are functioning correctly", "correct": false},
+        {"tag": "b", "text": "Assessing the maturity level of service management practices", "correct": false},
+        {"tag": "c", "text": "Supporting the organization in improving its service management practices and services", "correct": true},
+        {"tag": "d", "text": "Responding to customer feedback about service quality issues", "correct": false}
+      ],
+      "response_tag": "c",
+      "correctly_answered": true
+    },
+    {
+      "question": "An IT firm leverages monitoring tools to detect and categorize events in relation to services and other configuration items. Which ITIL practice are they applying?",
+      "choices": [
+        {"tag": "a", "text": "Monitoring and Event Management", "correct": true},
+        {"tag": "b", "text": "Service Configuration Management", "correct": false},
+        {"tag": "c", "text": "Availability Management", "correct": false},
+        {"tag": "d", "text": "Technical Management", "correct": false}
+      ],
+      "response_tag": "a",
+      "correctly_answered": true
+    },
+    {
+      "question": "When a new service is being designed, which of the following considerations is MOST aligned with the 'Design and Transition' value chain activity in ITIL 4?",
+      "choices": [
+        {"tag": "a", "text": "Ensuring standardized procedures are used for efficient and prompt handling of all changes", "correct": false},
+        {"tag": "b", "text": "Protecting the information needed by the organization to conduct its business", "correct": false},
+        {"tag": "c", "text": "Understanding and managing all costs and types of demand", "correct": false},
+        {"tag": "d", "text": "Planning and building a service that will meet the needs of current and future customers", "correct": true}
+      ],
+      "response_tag": "d",
+      "correctly_answered": true
+    }
+  ]
+}

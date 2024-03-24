@@ -1,4 +1,4 @@
-### Insert Characters To Each Line$
+### Insert Characters To Each Line
 
 1. `<C-v>` select characters of each line.
 2. `<S-I>` enter character `<Esc>`
@@ -25,7 +25,7 @@
 
 ```vim
 # Incrementing visually selected characters
-<C-v>4jg<C-a>
+<C-v>3jg<C-a>
 ```
 
 ```text
@@ -48,6 +48,7 @@
 
 1. `<C-v>` # Select characters of each line.
 2. `y` # Copy selected text
+    a. `yiw` # Yank Inner Word can be used as well.
 3. `/` # Enter search mode
 4. `<C-r>"` # Insert text from " register
 5. `Enter` # Results
