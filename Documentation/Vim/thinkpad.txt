@@ -1,0 +1,81 @@
+With the right configuration at the right price, the Lenovo ThinkPad P14s Gen 4 can be an exceptional machine to rival Dell’s XPS line and Apple’s MacBooks.
+
+About the Lenovo ThinkPad P14s Gen 4
+
+This laptop offers up to 64GB of non-upgradeable LPDDR5x memory and three different IPS display options and, two different battery capacities to choose from.
+
+You’ll find a few configuration options for the ThinkPad P14s Gen 4. Lenovo lists it with either an AMD Ryzen 5 Pro 7540U or Ryzen 7 Pro 7840U processor, and those configurations include either Radeon 740M or Radeon 780M integrated graphics, respectively. It can come with Windows 11 Home or Pro. It can be configured with up to 64GB of non-upgradeable LPDDR5x memory. Storage comes in capacities of up to 2TB. Display and webcam quality is also highly variable. You can get four different 1920x1200 IPS displays, with or without touchscreens, offering peak brightnesses from 300 nits to 500 nits, and with either 100% sRGB coverage or the paltry 45% NTSC gamut. There’s also one sharper OLED display option. There’s a basic 720p webcam option as well as 1080p and 5MP options, both include infrared for facial recognition for use with Windows Hello.
+
+Even the battery differs between configurations, with some offering a 52.5Wh battery and others only packing a 39.3Wh battery
+
+Lenovo also offers some extra options like eSIM and LTE support, NFC, and a smart card reader. With so many options, the cost of the P14s Gen 4 varies widely. Lenovo’s prices also fluctuate dramatically. While our test configuration shows a $2,200 MSRP, it’s gone on sale with direct discounts and coupon codes for under $1,000. As another example, a high-spec model (Ryzen 7 Pro 7840U, 64GB RAM, 1TB storage, OLED display, 5MP webcam, 52.5Wh battery) that should cost $2,509 was just $1,459 at the time of writing.
+
+Lenovo ThinkPad P14s Gen 4 specs
+Price as tested: $2200
+Processor: AMD Ryzen 7 Pro 7840U, 8-core/16-thread, max speed 5.1GHz
+Graphics: AMD Radeon 780M (integrated)
+Memory: 32GB LPDDR5x 6400MHz
+Storage: 1TB M.2 2242 PCIe 4.0 with TLC
+Display: 14-inch, 1920 x 1200, 400 nits max (rated); 483.7 nits max (measured), 100% sRGB, IPS Anti-glare
+Ports: 1 x USB-C 4.0 (power in), 1 x USB-C 3.2 Gen 2, 2 x USB-A 3.2 Gen 1, 1 x HDMI 2.1, 1 x Ethernet, 1 x 3.5mm audio combo jack
+Connectivity: Wi-Fi 6E, Bluetooth 5.3
+Battery: 4-cell, 52.5Wh Lithium Polymer
+Weight: 3.15 pounds (measured weight), 3.05 pounds (stated weight)
+Dimensions: 12.51 x 8.93 x 0.7 inches
+Warranty: 1-year
+Special features: Fingerprint reader, 5MP webcam with IR and facial recognition, physical webcam shutter, white keyboard backlighting, optional WWAN, optional smart card reader, spill-resistant keyboard
+
+What we like
+
+Exceptional keyboard and trackpad
+
+The ThinkPad P14s Gen 4’s keyboard is about as good as we’ve found on any laptop, providing a decent amount of resistance and stable keycaps that make typing a high-precision, high-speed experience. During testing, each keycap felt sturdy and was shaped such that there was no accidental fingering of adjacent keys. What’s more, the keys were responsive enough that there wasn’t a time when they didn’t fully reset before I tapped down again for repeated presses. Combine this with bright, helpful backlighting, and you have a high-utility keyboard. Lenovo bundles the function row into four key groups for easier use and includes a row for Home, End, Insert, and Delete keys. The arrow keys are small but offset, so it’s hard to accidentally hit them. Page Up and Page Down keys are included for quick navigation.
+
+(Note: while many keyboards start with Control in the bottom left followed by a Function key to the right of that, the ThinkPad P14s Gen 4 has these two keys swapped. Understanding that this could be a problem for many users, Lenovo has a toggle in its Lenovo Vantage software specifically for trading their functions.)
+
+The trackpad feels firm and has a smooth gliding surface. It includes separate buttons as well that sit at the top of the trackpad, making them easier to reach when used with the ThinkPad’s signature TrackPoint nib that sits at the center of the keyboard, providing a second way to mouse around with control more akin to an analog stick. If you’re a dedicated trackpad user though, it may take a little getting used to but can prove convenient to use with a second hand or quicker to get back to the keyboard after making a selection with the trackpad.
+
+It’s worth noting that the P14s Gen 4’s keyboard is spill-resistant. It’s sealed, so spilled fluids won’t go through the keyboard and enter into the critical components of the laptop. That said, water could pool and flow out from the top, dripping down the sides of the laptop. This could create a second opportunity for liquids to enter the system, but it’s still better than a spill spelling immediate doom.
+
+Speedy and efficient
+The configuration of the ThinkPad P14s Gen 4 we tested runs on a zippy 8-core processor that’s also impressively efficient. In many of our benchmarks, the CPU managed to keep up with some of the top competition quite well, like the HP Pavilion Plus 16 (2023) and Acer Swift Go 16 (2023), offering fast single-core speeds that play into the overall snappiness of the system as well as fast multi-core speeds that help it power through more demanding workloads, like the Blender BMW CPU render, which it pulled off faster than even Apple’s M1 Max chip in the MacBook Pro 16 (2021). The integrated graphics are also quite powerful, ranking among the top five of productivity systems we’ve tested in 3DMark’s Night Raid test.
+
+While it’s able to muster that level of performance, oftentimes keeping up with high-performance CPU SKUs like the Intel Core i7-13700H, it also can conserve power in less demanding scenarios. This let it run for a little over nine hours in our battery test. The laptop’s processor also ran cool, though its chassis did get a little hot on the underside during processor-heavy scenarios.
+
+Fantastic storage
+After running benchmarks on the ThinkPad P14s Gen 4’s internal storage, it immediately jumped to the top of the ranks for productivity laptops we’ve tested. Sometimes when laptop manufacturers boast of PCIe 4.0 SSDs, they’re including drives that barely beat the PCIe 3.0 x4 bandwidth spec. Not so with the ThinkPad P14s Gen 4’s storage. With read speeds of 7,156.9MB/s, the laptop beat all of its competition. Its write speed is also exceptional at 6,543MB/s, only beaten by the storage in the Apple MacBook Pro 14 M2 Max and MacBook Pro 16 M3 Max. It may seem like a small thing, but if your work involves large project files or lots of data transfers, all that storage speed can come in handy.
+
+A well-built, well-equipped laptop
+
+The ThinkPad P14s Gen 4 may not boast an all-metal chassis or look particularly exotic, but it’s a compelling package for a work machine. It feels well built, with a textured plastic exterior that’s quite pleasant to touch. The keyboard deck flexes a smidgeon, but otherwise, the system feels quite robust despite its lightweight, compact design.
+
+The P14 Gen 4’s matte display coating on the display is ideal for a work device, helping mitigate glare and reflections that can make it hard to see in bright conditions. That pairs with a very bright display (483.7 Nits, during testing) that lets the laptop provide easy visibility in most conditions, though it does suffer a bit from backlight bleed. The 2880x1800 OLED display option could be a boost, as 1920x1200 can feel a little low-res sometimes and the color gamut is a little lacking, but OLED and higher resolutions tend to come at a cost to battery life.
+
+The laptop does well with its port selection as well. The right edge of the laptop may only have a single USB-A port, but it’s at least a speedy 3.2 Gen 1 one. The left edge of the laptop is far more replete with ports, offering Ethernet, full-size HDMI 2.1 (though capped at 4K/60Hz), another USB-A 3.2 Gen 1 port, an audio combo jack a 10Gbps USB-C port, and a USB-C 4.0 port which handles charging and can field DisplayPort and other extremely high-bandwidth connection needs.
+
+The power button, located above the keyboard doubles as a fingerprint scanner. If that wasn’t enough, the configuration we tested included a 5MP (Windows recognizes it as 1440p) webcam with an IR sensor for Windows Hello facial recognition. Topping that off is a physical webcam privacy shutter.
+
+What we don’t like
+
+Battery could have been better
+
+We don’t want to knock the efficiency of this laptop. The ThinkPad P14s Gen 4 goes the distance with the 52.5Wh battery it’s packing, but I can’t help thinking it could have gone even further. It’s relatively thick compared to other thin-and-light laptops. The base of the laptop is nearly as large as the base of the Lenovo Legion Slim 5 Gen 8 gaming laptop I recently tested, which packs in extra cooling, has a spare M.2 slot, includes a discrete GPU, and finds room to fit a 80Wh battery. While it might have meant increasing its weight, slightly, a larger battery could have put the ThinkPad P14s Gen 4 over the top.
+
+In actual use with a mix of writing and watching video at 90% brightness, which is plenty for even a sun-drenched desktop, this laptop can run for about 7 hours.
+
+Configuration chaos
+Lenovo offers a fairly broad selection of configurations for the ThinkPad P14s Gen 4, and that’s just for this specific version. The multiple generations of this machine and the existence of an Intel variant (coming later this year) further complicate matters. It can make finding the perfect version of this laptop for you difficult. Given that this laptop can come with as little as 8GB of soldered non-upgradeable memory, it’s important to get what you need, now and for the future, if you’re looking to buy a P14 Gen 4.
+
+The three IPS display options with considerable variety in quality could also make it tricky to end up with a similar experience. All of the displays should do a good job fighting glare and prove bright, but some are certainly brighter than others and color performance can range from awful to great depending on which you get.
+
+It can get a little warm
+The ThinkPad P14s Gen 4 manages its heat well, but it does this by dumping that heat away from the CPU. Most of this will jet out the right side of the laptop where it has exhaust vents, but a good deal of it ends up building up on the underside of the laptop. This hotspot can get uncomfortably warm, reaching as high as 110.3 degrees Fahrenheit. Most of the chassis stays cooler, so it doesn’t become uncomfortable to use on a table or desk, but it’ll feel a little hot for lap use. This is less of an issue for basic computing, but if the laptop is under heavy load, that heat will build up.
+
+Should you buy the ThinkPad P14s Gen 4?
+
+Yes, but make sure you’re getting it at a good price
+The ThinkPad P14s Gen 4 is a great laptop for getting work done. It comes well-equipped for productivity with a display that’s exceptionally easy to see in a wide variety of conditions, both dark and bright. The hardware inside zips along, easily handling everyday computing tasks and even muscling through some heavier lifts. Using the computer is all the more enjoyable thanks to an excellent keyboard that regular typists will love.
+
+Being a work machine, there’s a little to be desired design-wise. While recent consumer machines have gotten a glow-up, the ThinkPad P14s Gen 4 still looks fairly utilitarian, is kind of thick, and has chunky bezels around the display (at least the top bezel gives you an IR webcam). Despite its depth, the ThinkPad P14s Gen 4 also passed up on the opportunity to go for a bigger battery that could have helped it compete with Apple’s MacBook Air and MacBook Pro models for runtime on battery power.
+
+At Lenovo’s listed retail prices, it’s a little hard to recommend the ThinkPad P14s Gen 4, though. It has a serious case of prosumer pricing. But Lenovo prices are notoriously nebulous, and every time I look at the product page for this laptop, Lenovo has a handful of configurations on sale for more than 40% off their list price. If you’re shopping for a new laptop and can snag this one for less than the price of a similarly configured Dell XPS 13 or XPS 15, you’ll be rewarded with a brilliant tool for getting work done, even if it’s not as pretty.
