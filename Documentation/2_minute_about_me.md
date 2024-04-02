@@ -1,0 +1,9 @@
+## About Me
+
+My path has been an unconventional one, but it has equipped me with a truly unique skill set that makes me an ideal fit for this Product Administrator position. Straight out of high school, I served in the United States Marine Corps as an administrative clerk, where I was responsible for meticulously maintaining personnel databases and ensuring accurate counts and locations of Marines at all times. This instilled in me an exceptional eye for detail and the ability to manage and analyze complex data sets.
+
+After my military service, I gained diverse experience in retail operations at Best Buy, optimizing processes through LEAN methodologies. Then I had the opportunity to work in automotive manufacturing at Gentex, where I became immersed in LEAN principles like 5S, process flow analysis, and continuous improvement. These experiences solidified my passion for driving operational efficiency through data-driven insights.
+
+Determined to combine my analytical mindset with technical expertise, I recently completed intensive training programs in data science at Codeup and computer user support at ACI Learning. I am now proficient in Python, SQL, machine learning models, and troubleshooting across various systems and operating environments. With this foundation, I am actively pursuing industry certifications like ITIL, A+, and Security+ to continuously expand my IT capabilities.
+
+What excites me most about this role is the prospect of applying my unique blend of process improvement, data analysis, and technical skills to enhance Holt Cat's operational solutions. I am drawn to your values-driven culture of excellence and look forward to the mentorship of an innovative leader like yourself. I'm confident my background has prepared me to thrive as your Product Administrator and contribute to your remarkable legacy of world-class service.

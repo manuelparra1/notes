@@ -12,7 +12,6 @@ from langchain_core.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
 from langchain_text_splitters import CharacterTextSplitter  # Add this import
 
-
 def summarize_text(file_path):
     """
     Summarizes the text from the input file using the OpenAI GPT-3.5 model.
