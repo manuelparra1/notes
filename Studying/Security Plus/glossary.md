@@ -120,10 +120,10 @@ threats.
 
 ### Difference
 
-In summary, SYSLOG is a protocol for sending log and event messages, while SIEM
-is a comprehensive security software solution that includes log and event
-management capabilities, among other features, to help organizations monitor
-and respond to security incidents.
+> GPTo
+> The main difference between a SIEM (Security Information and Event Management) and SYSLOG is their functionality and purpose. SYSLOG is a standard protocol used for logging system messages and events from various devices and applications, providing a centralized way to collect and store log data. In contrast, a SIEM is a comprehensive security solution that not only collects and stores log data (often using SYSLOG) but also analyzes and correlates this data to identify and respond to potential security threats in real-time. Essentially, SYSLOG is about logging, while SIEM is about both logging and actively managing security.
+> GPT3.5
+> A SIEM (Security Information and Event Management) is a comprehensive security solution that collects, analyzes, and correlates data from various sources to provide real-time threat detection and response capabilities. It includes features such as log management, event correlation, and incident response. On the other hand, SYSLOG is a protocol used for sending log messages and event data from network devices to a centralized logging server. While both SIEM and SYSLOG are used for collecting and analyzing log data, the main difference is that SIEM is a more advanced and comprehensive security solution that includes additional features for threat detection and response, whereas SYSLOG is primarily focused on collecting and forwarding log data.
 
 ## Hashing
 
@@ -168,6 +168,10 @@ Key escrow stores keys
 ## CRL
 
 CRL is a list of revoked certificate
+A Certificate Revocation List (CRL) is a list of digital certificates that have been revoked by the issuing Certificate Authority (CA) before their expiration date. CRLs are used to verify the validity of a certificate by checking if it has been revoked due to compromise or other reasons. This helps ensure the security and integrity of the certificate-based authentication system. CRLs are an essential component of a Public Key Infrastructure (PKI) and are used by clients to determine if a certificate should be trusted for secure communication.
+
+> Certificate of the Certificate?
+> A Certificate Revocation List (CRL) acts as a list of revoked certificates, providing a way to verify the validity of a digital certificate. It serves as a mechanism to ensure that certificates that have been compromised or are no longer trusted are not used for secure communication. Just as a certificate is used to verify the identity of an entity in a PKI system, a CRL is used to verify the validity of that certificate.
 
 ## OCSP
 
